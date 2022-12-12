@@ -1,0 +1,1 @@
+﻿Get-Content 'C:\PowerBI\PowerBI_ConferenceRoom\SourceData\ConfDevices.txt', 'C:\PowerBI\PowerBI_ConferenceRoom\SourceData\RegionalConfDevices.txt' | Set-Content 'C:\PowerBI\PowerBI_ConferenceRoom\SourceData\MergedDevices.txt'
